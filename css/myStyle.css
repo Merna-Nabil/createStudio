@@ -1,0 +1,507 @@
+/* start dream cature*/
+.dreamCature
+{
+	min-height:700px;
+	background:#F6F6F6;
+
+}
+.dreamCature .create
+{
+	padding-top:200px;
+}
+.dreamCature .create h6
+{
+	font-style: italic;
+  font-family:"dancing-script";
+  font-weight:bold;
+  font-size:20px;
+}
+.dreamCature .create h1
+{
+	font-size:70px;
+	font-weight:bold;
+}
+.dreamCature .create p
+{
+	color:#999;
+	padding-bottom:30px;
+}
+.dreamCature .create button
+{
+	background:#FFF;
+	color:black;
+	width:150px;
+	padding:5px;
+	border:1px solid lightgrey;
+	margin-bottom:10px;
+}
+/*end dream cature*/
+
+/*start what we do */
+
+.whatwedo
+{
+	min-height:600px;
+	background:#fff;
+	padding-bottom:20px;
+}
+.whatwedo .what
+{
+	padding-top:60px;
+	padding-bottom:30px;
+}
+.whatwedo .what h3 ,h6
+{
+	font-weight:bolder;
+	font-style:italic;
+}
+.whatwedo .what hr
+{
+	width:30px;
+	background:black;
+}
+.whatwedo .what .p1
+{
+	margin-bottom:30px;
+}
+.whatwedo .what p
+{
+	line-height:70%;
+	color:#999;
+
+}
+.whatwedo .what .pp
+{
+	line-height:100%;
+
+}
+.whatwedo .media h4
+{
+	font-weight:bold;
+}
+.whatwedo .media p
+{
+	color:#999;
+}
+/*end what we do */
+
+/* start about us */
+.aboutus
+{
+	min-height:500px;
+	background:#F6F6F6;
+	padding-top:70px;
+	padding-bottom:20px;
+}
+.aboutus .about h6
+{
+	font-family:"dancing-script";
+	font-style:italic;
+	font-weight:bolder;
+	padding-top:60px;
+}
+.aboutus .about h3
+{
+	font-weight:bold;
+}
+.aboutus .about .hr
+{
+	width:50px;
+	background:black;
+}
+.aboutus .about p
+{
+	color:#999;
+}
+.aboutus .about button
+{
+	padding:5px;
+	width:150px;
+	background:#fff;
+	border:1px solid lightgrey;
+	margin-top:30px;
+}
+.aboutus .imggg img
+{
+	margin-bottom:-20px;
+}
+/* end about us */
+
+/* start portofolio*/
+.portofolio
+{
+	min-height:250px;
+	background:#FFF;
+	padding-top:30px;
+	padding-bottom:20px;
+}
+.portofolio h5
+{
+	font-family:"dancing-script";
+	font-weight:bolder;
+	font-style:italic;
+}
+.portofolio h3
+{
+	
+	font-weight:bolder;
+}
+.portofolio hr
+{
+	width:50px;
+	background:black;
+	border:.5px solid black;
+}
+.portofolio p
+{
+	color:#999;
+}
+
+/*end portofolio*/
+
+/* start swr*/
+.swr
+{
+	min-height:200px;
+	
+}
+.swr .picc img
+{
+	margin-bottom:10px;
+}
+/*end swr*/
+
+/* start statistics */
+ .statistics
+ {
+ 	min-height:100px;
+ 	padding-top:30px;
+ 	padding-bottom:30px;
+ 	background:#FBCA03;
+ 	margin-top:-10px;
+ }
+  .statistics i
+  {
+  	opacity:.1;
+  	color:black;
+  }
+  .statistics .hspan
+  {
+  	margin-top:-70px;
+  }
+
+ .statistics .hspan h6
+   {
+   	font-weight:800;
+    	font-size:15px;
+   }
+    .statistics .hspan span
+    {
+    	font-size:30px;
+    	font-weight:800;
+    	color:black;
+    }
+/* end statistics*/
+
+/* start mobilee info*/
+.mobilee
+{
+	min-height:600px;
+	padding-top:100px;
+	padding-bottom:30px;
+	background:#FFF;
+}
+.mobilee .infomob
+{
+	padding-top:50px;
+}
+.mobilee .infomob h5
+{
+	font-family:"dancing-script";
+	font-weight:bolder;
+	font-style:italic;
+}
+.mobilee .infomob h3
+{
+	font-weight:bolder;
+}
+.mobilee .infomob p
+{
+	color:#999;
+}
+.mobilee .infomob ul li
+{
+	padding-top:6px;
+	color:#FBCA03;
+
+
+}
+.mobilee .infomob ul li span
+{
+	color:#999;
+}
+.mobilee .infomob button
+{
+	margin-top:30px;
+	background:#FFF;
+	border:1px solid lightgrey;
+	width:150px;
+	padding:5px;
+}
+/* end mobilee info*/
+
+/* start themes */
+.themess
+{
+	min-height:400px;
+	background:#F6F6F6;
+	padding-top:70px;
+	padding-bottom:30px; 
+}
+.themess .mythemes h5
+{
+	font-weight:bolder;
+	font-style:italic;
+	font-family:"dancing-script";
+}
+.themess .mythemes h3
+{
+	font-weight:bolder;
+}
+.themess .mythemes p
+{
+	margin-top:30px;
+	margin-bottom:30px;
+	color:#999;
+}
+.themess .mythemes  i
+{
+	color:#FBCA03;
+	margin-bottom:20px;
+}
+.themess .mythemes  i span
+{
+	color:#999;
+	font-size:15px;
+	padding-left:10px;
+
+}
+.themess .mythemes button
+{
+	background:#FFF;
+	border:1px solid lightgrey;
+	width:150px;
+	padding:5px;
+	margin-top:20px;
+}
+
+/* end themes */
+/* start news */
+.news
+{
+	min-height:500px;
+	padding-top:50px;
+	padding-bottom:30px;
+
+}
+.news .titlee h5
+{
+	font-family:"dancing-script";
+	font-style:italic;
+	font-weight:bolder;
+}
+.news .titlee hr
+{
+	width:50px;
+	background:black;
+	border:.5px solid black;
+}
+.news .titlee h3
+{
+font-weight:bolder;
+
+}
+.news .titlee .pp2
+{
+	margin-bottom:50px;
+}
+.news .titlee p
+{
+	color:#999;
+}
+.news .blocc h6
+{
+	color:#999;
+	font-style:italic;
+}
+.news .blocc h4
+{
+	font-weight:bolder;
+}
+.news .blocc p
+{
+	color:#999;
+}
+.news .blocc h5 a
+{
+	text-decoration:none;
+	color:#FBCA03;
+	font-weight:bold;
+}
+/* end news */
+
+/* start testimonials*/
+.testimonials
+{
+	
+	min-height:400px;
+	background:url("../images/Hand.jpg") no-repeat center center ;
+	width:100%;
+	-webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+      background-size:cover;
+	  position: relative;
+     
+   
+}
+.testimonials .testi
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	padding-top:50px;
+	color: #fff;
+	background-color: rgb(0, 0, 0,.7);
+	padding-bottom:50px; 
+	
+	}
+.testimonials .testi h5
+{
+	
+	font-weight:bolder;
+	font-style:italic;
+	font-family:"dancing-script";
+}
+.testimonials .testi h3 ,
+.testimonials .testi p ,
+ .testimonials .testi h4 
+ , .testimonials .testi span
+{
+	
+	font-weight:bolder;
+}
+/* end testimonials */
+
+/* start contact us */
+.contactUs
+{
+	min-height:300px;
+	background:#FFF;
+	padding-top:50px;
+	padding-bottom:30px;
+
+}
+.contactUs h5
+{
+	font-weight:bolder;
+	font-style:italic;
+	font-family:"dancing-script";
+}
+.contactUs h3
+{
+	font-weight:bolder;
+}
+.contactUs hr
+{
+	width:50px;
+	background:black;
+	border:.5px solid black;
+}
+.contactUs .pp3
+{
+	margin-bottom:50px;
+}
+.contactUs p
+{
+	color:#999;
+}
+.contactUs i
+{
+	margin-bottom:10px;
+	color:black;
+}
+/* end contact us */
+
+/*start section map*/
+.mapp
+{
+	min-height:350px;
+	background:url("../images/map.PNG") no-repeat center center;
+	-webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+      background-size:cover;
+}
+/*end section map*/
+
+/*start section footer*/
+.footerr
+{
+	min-height:300px;
+	background:#313234;
+	padding-top:40px;
+}
+.footerr  .abut h4 ,
+.footerr  .abut p ,
+.footerr  .abut i ,
+ .footerr  .abut span
+{
+  color:lightgrey;
+}
+.footerr  .abut h4 
+{
+	margin-bottom:20px;
+}
+.footerr  .abut i span 
+{
+	margin-left:20px;
+	line-height:150%;
+	font-size:15px;
+}
+.footerr .recent h4 
+{
+	color:lightgrey;
+}
+.footerr .recent h5
+{
+	color:lightgrey;
+}
+.footerr .recent p
+{
+	color:lightgrey;
+}
+.footerr .gallery h4
+{
+	color:lightgrey;
+	margin-bottom:30px;
+}
+.footerr .gallery img
+{
+	padding:5px;
+}
+
+.downn
+{
+	min-height:30px;
+	background:#242424;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.downn span
+{
+	color:lightgrey;
+}
+/* end section footer */
